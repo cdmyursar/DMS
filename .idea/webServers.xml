@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b240637e-f0bb-4cd9-93dd-9f8fcb949429" name="Xamp htdocs" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\KC\PhpstormProjects\DMS" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
